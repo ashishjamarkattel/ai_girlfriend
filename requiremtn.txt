@@ -1,0 +1,6 @@
+fastapi
+langchain
+uvicorn
+openai
+playsound
+python-dotenv
